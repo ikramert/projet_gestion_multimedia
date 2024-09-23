@@ -36,7 +36,8 @@ L'objectif principal de "Échos de la Nature" est de sensibiliser les utilisateu
 2. **Interagir avec les éléments** : Cliquer sur des objets (arbres, rochers, vagues) pour déclencher des sons naturels associés.
 3. **Composer leur propre ambiance sonore** : Superposer différents sons pour créer une expérience unique et personnalisée.
 
-![Échos de la Nature - Interface](https://github.com/user-attachments/assets/ebd7de70-e363-405a-938e-bfa61b1502fd)
+![Échos de la Nature - Interface](https://github.com/user-attachments/assets/0c90c079-b96a-40ae-8a7c-8029976fbb28)
+
 ## Fonctionnement de l'œuvre
 ### Étapes d'interaction
 1. **Interface utilisateur** : 
