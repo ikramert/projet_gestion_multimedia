@@ -1,7 +1,7 @@
 # Échos de la Nature
 
 ## Auteur
-"Échos de la Nature" est un projet multimédia interactif fictif conçu pour créer une expérience immersive reliant les utilisateurs aux sons de la nature. Ce projet met en avant la beauté des environnements naturels et encourage une exploration créative des éléments sonores.
+_Échos de la Nature_ est un projet multimédia interactif fictif conçu pour créer une expérience immersive reliant les utilisateurs aux sons de la nature. Ce projet met en avant la beauté des environnements naturels et encourage une exploration créative des éléments sonores.
 
 ## Collaborateurs et partenaires
 Le projet pourrait bénéficier du soutien de plusieurs collaborateurs et partenaires, notamment :
