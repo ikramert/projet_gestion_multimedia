@@ -11,14 +11,13 @@ Le projet pourrait bénéficier du soutien de plusieurs collaborateurs et parten
 - **Artistes numériques et développeurs** : Équipe technique chargée du développement de l'interface interactive et des éléments visuels.
 - **Universités et instituts de recherche** : Partenariats pour des études sur l'impact des sons naturels sur le bien-être et la santé mentale.
 
-![Échos de la Nature](image_url_placeholder)
+![Échos de la Nature](https://github.com/user-attachments/assets/42d6119d-e6af-4fe1-a2cb-5e9b52382ff8)
 
 ## Où ?
 ### Lieu de présentation initiale
-Le projet "Échos de la Nature" pourrait être présenté lors de festivals d'art numérique et d'environnement, ainsi que dans des musées d'histoire naturelle à travers le monde, comme :
+Le projet "Échos de la Nature" pourrait être présenté lors de festivals d'art numérique et d'environnement :
 
 - **Festival des Arts Numériques de Montréal**
-- **Musée d'Histoire Naturelle de Londres**
 
 ### Contexte géographique et culturel
 La présentation dans des lieux axés sur la nature et la durabilité mettrait en lumière l'importance de la préservation des écosystèmes. Cela renforcerait l'engagement du public envers la nature et susciterait une réflexion sur notre relation avec l'environnement, en intégrant des éléments culturels propres aux différentes régions (sonorités locales, légendes, etc.).
@@ -37,8 +36,7 @@ L'objectif principal de "Échos de la Nature" est de sensibiliser les utilisateu
 2. **Interagir avec les éléments** : Cliquer sur des objets (arbres, rochers, vagues) pour déclencher des sons naturels associés.
 3. **Composer leur propre ambiance sonore** : Superposer différents sons pour créer une expérience unique et personnalisée.
 
-![Échos de la Nature - Interface](image_url_placeholder)
-
+![Échos de la Nature - Interface](https://github.com/user-attachments/assets/ebd7de70-e363-405a-938e-bfa61b1502fd)
 ## Fonctionnement de l'œuvre
 ### Étapes d'interaction
 1. **Interface utilisateur** : 
