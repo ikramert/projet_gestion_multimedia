@@ -14,7 +14,7 @@ En tant qu'amateur de nature et de technologie, je suis motivé par l'idée de c
 ## Scénario interactif
 "Échos de la Nature" est une installation interactive qui invite les utilisateurs à explorer des paysages virtuels représentant divers environnements naturels (forêt, plage, montagne). À travers une interface intuitive, les utilisateurs peuvent :
 
-
+---
 ```mermaid
     graph TD;
 
@@ -47,7 +47,7 @@ En tant qu'amateur de nature et de technologie, je suis motivé par l'idée de c
 
     %% Retour au mode veille global
     Interaction -- Non --> AmbianceBase;
-
+```
 
 
 
