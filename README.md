@@ -133,7 +133,6 @@ Le projet sera disponible en ligne via un site web interactif, accessible sur di
    - **Intégration des médias** : Uploader les fichiers audio et visuels, et s'assurer qu'ils sont bien liés dans le code.
 
 ### Suivi et Maintenance
-- **Analyse des performances** : Utiliser Google Analytics ou d'autres outils pour suivre l'utilisation du site.
 - **Mises à jour** : Prévoir des mises à jour régulières pour corriger les bugs et améliorer l’expérience en fonction des retours utilisateurs.
 
 
