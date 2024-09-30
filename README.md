@@ -18,6 +18,9 @@ En tant qu'amateur de nature et de technologie, je suis motivé par l'idée de c
 2. **Interagir avec les éléments** : Cliquer sur des objets (arbres, rochers, vagues) pour déclencher des sons naturels associés.
 3. **Composer leur propre ambiance sonore** : Superposer différents sons pour créer une expérience unique et personnalisée.
 
+![multimedia](https://github.com/user-attachments/assets/1aa3f017-2e70-4d96-90c9-7b84802f3e57)
+
+
 ## Interaction utilisateur
 ### Étapes d'interaction
 1. **Interface utilisateur** : L'utilisateur accède à une page d'accueil présentant un carrousel d'images des différents environnements naturels.
@@ -37,6 +40,10 @@ En tant qu'amateur de nature et de technologie, je suis motivé par l'idée de c
   - Bleu océan : #2196F3
   - Marron terre : #8B4513
   - Jaune soleil : #FFEB3B
+ 
+
+    ![Untitled design](https://github.com/user-attachments/assets/92d386e2-b184-4048-8096-974b32365c7b)
+
 
 ## Pourquoi j'ai fait ces choix
 Les choix esthétiques sont orientés vers une palette de couleurs qui évoque des sensations de calme et de connexion à la nature. Les artistes référencés ont en commun d'explorer la relation entre l'homme et son environnement, ce qui résonne avec l'objectif du projet.
