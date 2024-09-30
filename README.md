@@ -17,36 +17,53 @@ En tant qu'amateur de nature et de technologie, je suis motivé par l'idée de c
 ---
 ```mermaid
     graph TD;
+    A[Échos de la Nature] --> B[Choix de l'environnement];
+    B --> C[Forêt];
+    B --> D[Plage];
+    B --> E[Montagne];
 
-    ModeVeille[Mode veille] --> AmbianceBase[Sons et paysages de base jouent];
-    AmbianceBase --> Interaction[Interaction avec l'environnement ?];
+    %% Interaction dans la Forêt
+    C --> F[Interaction avec les éléments de la forêt];
+    F -- Oui --> G[Toucher un arbre];
+    G --> H[Capteur d'arbre activé];
+    
+    H --> I[Lumière douce et sons d'oiseaux];
+    H --> J[Sons de la forêt amplifiés];
 
-    %% Interaction Utilisateur 1
-    Interaction -- Oui --> Paysage1[Utilisateur 1 sélectionne le paysage 1];
-    Paysage1 --> Interaction1[Interaction avec un élément du paysage ?];
+    I --> K[L'utilisateur reste dans la forêt ?];
+    J --> K;
 
-    Interaction1 -- Oui --> Element1[Utilisateur 1 touche l'élément 1];
-    Element1 --> Son1[Sons associés à l'élément 1 activés];
+    K -- Oui --> L[Augmentation des effets lumineux et sonores];
+    K -- Non --> M[Retour au choix d'environnement];
 
-    Son1 --> Reste1[Utilisateur 1 reste ?];
+    %% Interaction à la Plage
+    D --> N[Interaction avec les éléments de la plage];
+    N -- Oui --> O[Toucher une vague];
+    O --> P[Capteur de vague activé];
+    
+    P --> Q[Lumière bleuâtre et sons de vagues];
+    P --> R[Sons de la plage amplifiés];
 
-    Reste1 -- Oui --> PlusEffetsSons1[Effets sonores augmentés pour U1];
-    Reste1 -- Non --> RetourVeille1[Retour au mode veille pour U1];
+    Q --> S[L'utilisateur reste sur la plage ?];
+    R --> S;
 
-    %% Interaction Utilisateur 2
-    Interaction -- Oui --> Paysage2[Utilisateur 2 sélectionne le paysage 2];
-    Paysage2 --> Interaction2[Interaction avec un élément du paysage ?];
+    S -- Oui --> T[Augmentation des effets lumineux et sonores];
+    S -- Non --> U[Retour au choix d'environnement];
 
-    Interaction2 -- Oui --> Element2[Utilisateur 2 touche l'élément 2];
-    Element2 --> Son2[Sons associés à l'élément 2 activés];
+    %% Interaction à la Montagne
+    E --> V[Interaction avec les éléments de la montagne];
+    V -- Oui --> W[Toucher une roche];
+    W --> X[Capteur de roche activé];
+    
+    X --> Y[Lumière dorée et sons de vent];
+    X --> Z[Sons de la montagne amplifiés];
 
-    Son2 --> Reste2[Utilisateur 2 reste ?];
+    Y --> AA[L'utilisateur reste dans la montagne ?];
+    Z --> AA;
 
-    Reste2 -- Oui --> PlusEffetsSons2[Effets sonores augmentés pour U2];
-    Reste2 -- Non --> RetourVeille2[Retour au mode veille pour U2];
+    AA -- Oui --> AB[Augmentation des effets lumineux et sonores];
+    AA -- Non --> AC[Retour au choix d'environnement];
 
-    %% Retour au mode veille global
-    Interaction -- Non --> AmbianceBase;
 ```
 
 
