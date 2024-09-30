@@ -98,7 +98,8 @@ En tant qu'amateur de nature et de technologie, je suis motivé par l'idée de c
 ---
 ## Pourquoi j'ai fait ces choix
 
-- Les choix esthétiques visent à évoquer des sensations de calme et de connexion à la nature. Les artistes référencés explorent la relation entre l'homme et son environnement, ce qui résonne avec l'objectif du projet.
+J'ai faite ces choix esthétiques car ils visent à évoquer des sensations de calme et de connexion à la nature. Les artistes référencés explorent la relation entre l'homme et son environnement, ce qui résonne avec l'objectif du projet.
+
 ---
 ## Support médiatique / Intégration
 Le projet sera disponible en ligne via un site web interactif.
