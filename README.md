@@ -18,14 +18,14 @@ En tant qu'amateur de nature et de technologie, je suis motivé par l'idée de c
 3. **Composer leur propre ambiance sonore** : Superposer différents sons pour créer une expérience unique et personnalisée.
 
 ![multimedia](https://github.com/user-attachments/assets/1aa3f017-2e70-4d96-90c9-7b84802f3e57)
-
+---
 ## Interaction utilisateur
 ### Étapes d'interaction
 1. **Interface utilisateur** : L'utilisateur accède à une page d'accueil présentant différents environnements naturels.
 2. **Sélection d'un paysage** : L'utilisateur choisit entre une forêt, une plage ou une montagne, chaque choix menant à un environnement 3D interactif.
 3. **Interactions sonores** : Chaque élément cliquable dans le paysage déclenche des sons, et les utilisateurs peuvent ajuster le volume et la position des sons.
 4. **Création et partage** : À la fin de l'expérience, l'utilisateur peut enregistrer sa composition sonore et la partager sur les réseaux sociaux.
-
+---
 ## Planche visuelle et sonore
 ### Références artistiques
 1. **Rafael Lozano-Hemmer** : Son œuvre "33 Questions per Minute" illustre l'importance de l'interaction et de l'engagement du public.
@@ -40,10 +40,10 @@ En tant qu'amateur de nature et de technologie, je suis motivé par l'idée de c
   - Jaune soleil : #FFEB3B
 
 ![Untitled design](https://github.com/user-attachments/assets/92d386e2-b184-4048-8096-974b32365c7b)
-
+---
 ## Pourquoi j'ai fait ces choix
 Les choix esthétiques visent à évoquer des sensations de calme et de connexion à la nature. Les artistes référencés explorent la relation entre l'homme et son environnement, ce qui résonne avec l'objectif du projet.
-
+---
 ## Support médiatique / Intégration
 Le projet sera disponible en ligne via un site web interactif.
 
@@ -79,26 +79,26 @@ Le projet sera disponible en ligne via un site web interactif.
 
 9. **Supports Physiques (Installation)**
    - **Exemples** : Tablettes ou stations de travail pour l'installation physique.
-
+---
 ## Considérations Supplémentaires
 - **Câblage et Connectivité** : Câbles de haute qualité et adaptateurs nécessaires pour connecter les casques et les haut-parleurs à l'ordinateur.
 - **Alimentation Électrique** : Prises suffisantes pour tous les équipements.
 - **Espaces de Préparation** : Un espace pour préparer et tester les installations.
-
+---
 ## Logiciels et techniques utilisées
 - **HTML/CSS/JavaScript** : Développement de l'interface web.
 - **Web Audio API** : Gestion des sons en temps réel.
 - **Three.js** : Création de paysages 3D interactifs.
 - **Adobe Audition ou Audacity** : Enregistrement et édition des échantillons sonores.
 - **Node.js** (facultatif) : Gestion des enregistrements et partage en ligne.
-
+---
 # Développement du projet "Échos de la Nature"
 
 ## Développement
 
 ## Technologies et Logiciels
 
-Pour réaliser "Échos de la Nature", plusieurs technologies et logiciels seront nécessaires :
+Pour réaliser _Échos de la Nature_, plusieurs technologies et logiciels seront nécessaires :
 
 ### Technologies
 - **WebGL** : Pour le rendu graphique 3D dans le navigateur.
@@ -112,7 +112,7 @@ Pour réaliser "Échos de la Nature", plusieurs technologies et logiciels seront
 - **Blender ou Maya** : Pour la modélisation et l'animation 3D.
 - **HTML/CSS/JavaScript** : Pour le développement de l'interface web.
 - **Node.js** (facultatif) : Pour gérer les enregistrements et le partage en ligne.
-
+---
 ## Branchement et Câbles Nécessaires
 Pour assurer le bon fonctionnement du projet, les équipements suivants doivent être correctement branchés :
 
@@ -121,7 +121,7 @@ Pour assurer le bon fonctionnement du projet, les équipements suivants doivent 
 - **Microphone** : Utilisé pour l'enregistrement des sons naturels.
 - **Contrôleur VR** : Connecté via Bluetooth ou câble USB.
 - **Câbles d'alimentation** : Assurez-vous que tous les appareils sont alimentés correctement.
-
+---
 ## Intégration
 1. **Développement du site web**
    - **Intégrer Three.js** pour la création des paysages 3D.
