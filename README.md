@@ -23,7 +23,7 @@ En tant qu'amateur de nature et de technologie, je suis motivé par l'idée de c
 
 ## Interaction utilisateur
 ### Étapes d'interaction
-1. **Interface utilisateur** : L'utilisateur accède à une page d'accueil présentant un carrousel d'images des différents environnements naturels.
+1. **Interface utilisateur** : L'utilisateur accède à une page d'accueil présentant des différents environnements naturels.
 2. **Sélection d'un paysage** : L'utilisateur choisit entre une forêt, une plage ou une montagne, chaque choix menant à un environnement 3D interactif.
 3. **Interactions sonores** : Chaque élément cliquable dans le paysage déclenche des sons, et les utilisateurs peuvent ajuster le volume et la position des sons.
 4. **Création et partage** : À la fin de l'expérience, l'utilisateur peut enregistrer sa composition sonore et la partager sur les réseaux sociaux.
@@ -49,16 +49,53 @@ En tant qu'amateur de nature et de technologie, je suis motivé par l'idée de c
 Les choix esthétiques sont orientés vers une palette de couleurs qui évoque des sensations de calme et de connexion à la nature. Les artistes référencés ont en commun d'explorer la relation entre l'homme et son environnement, ce qui résonne avec l'objectif du projet.
 
 ## Support médiatique / Intégration
-Le projet sera disponible en ligne via un site web interactif, accessible sur différents appareils (ordinateurs, tablettes, smartphones) pour maximiser l'engagement du public.
+Le projet sera disponible en ligne via un site web interactif.
 
-## Matériaux et composants
-- **Matériaux** : Panneaux d'affichage pour l'installation physique, haut-parleurs pour la diffusion des sons, et écrans pour l'affichage des paysages.
-- **Composants** : Équipements audio pour enregistrer les sons naturels, et dispositifs interactifs pour la manipulation des éléments sonores.
+# Composantes Physiques Nécessaires
 
-## Composantes physiques nécessaires pour l'œuvre
-- **Haut-parleurs** : Pour la diffusion des sons naturels de manière immersive.
-- **Écrans** : Pour afficher les paysages interactifs et les éléments sonores.
-- **Capteurs de mouvement** (facultatif) : Pour rendre l'interaction encore plus immersive.
+1. **Casques de Réalité Virtuelle (VR)**
+   - **Exemples** : Oculus Quest, HTC Vive, ou Valve Index.
+   - **Fonction** : Permettre aux utilisateurs d'explorer les environnements naturels en immersion totale.
+
+2. **Haut-parleurs Spéciaux**
+   - **Type** : Haut-parleurs Bose Surround.
+   - **Fonction** : Diffuser des sons naturels de manière immersive, créant une ambiance sonore riche.
+
+3. **Écrans de Projection (facultatif)**
+   - **Utilisation** : Pour montrer des paysages interactifs aux utilisateurs qui ne portent pas de casque VR.
+   - **Fonction** : Créer une expérience visuelle pour un public plus large.
+
+4. **Contrôleurs de VR**
+   - **Fonction** : Permettre aux utilisateurs d'interagir avec l'environnement virtuel (sélectionner des éléments, ajuster le volume des sons, etc.).
+
+5. **Ordinateur Puissant**
+   - **Configuration** :
+     - Processeur : i7 ou plus
+     - Carte graphique : NVIDIA RTX 3060 ou équivalent
+     - RAM : 32 Go ou plus
+   - **Fonction** : Exécuter les applications VR et gérer le rendu graphique en temps réel.
+
+6. **Matériel de Capture Audio**
+   - **Exemples** : Micros pour enregistrer des sons naturels.
+   - **Fonction** : Capturer des échantillons sonores de haute qualité pour enrichir l'expérience interactive.
+
+7. **Capteurs de Mouvement (facultatif)**
+   - **Exemples** : Caméras de suivi ou capteurs infrarouges.
+   - **Fonction** : Suivre les mouvements de l'utilisateur pour améliorer l'interaction dans le monde virtuel.
+
+8. **Dispositifs de Contrôle Tactile**
+   - **Exemples** : Gants VR ou manettes.
+   - **Fonction** : Offrir une interaction plus tactile et immersive avec les éléments naturels.
+
+9. **Supports Physiques (Installation)**
+   - **Exemples** : Tablettes ou stations de travail pour l'installation physique.
+   - **Fonction** : Fournir une interface accessible pour les utilisateurs sans VR.
+
+## Considérations Supplémentaires
+- **Câblage et Connectivité** : Des câbles de haute qualité et des adaptateurs nécessaires pour connecter les casques et les haut-parleurs à l'ordinateur.
+- **Alimentation Électrique** : Prévoir suffisamment de prises pour tous les équipements.
+- **Espaces de Préparation** : Un espace pour préparer et tester les installations avant le déploiement.
+
 
 ## Logiciels et techniques utilisées
 - **HTML/CSS/JavaScript** : Développement de l'interface web.
@@ -71,53 +108,36 @@ Le projet sera disponible en ligne via un site web interactif, accessible sur di
 
 ## Développement
 
-### Technologies et Logiciels
-1. **HTML/CSS/JavaScript**
-   - **Description** : Pour le développement de l'interface utilisateur du site web.
-   - **Éditeurs** : Visual Studio Code, Sublime Text ou Atom.
-   - **Frameworks** : 
-     - **Bootstrap** : Pour un design responsive et élégant.
-     - **GSAP** : Pour les animations fluides.
+## Technologies et Logiciels
 
-2. **Three.js**
-   - **Description** : Bibliothèque JavaScript pour créer des graphiques 3D interactifs dans le navigateur.
-   - **Documentation** : [Three.js Documentation](https://threejs.org/docs/index.html#manual/en/introduction/Creating-a-scene)
+Pour réaliser "Échos de la Nature", plusieurs technologies et logiciels seront nécessaires :
 
-3. **Web Audio API**
-   - **Description** : Pour gérer et manipuler les sons en temps réel, permettant la superposition et l'interaction sonore.
-   - **Exemples** : Utiliser les fonctionnalités pour créer des effets sonores dynamiques basés sur les interactions des utilisateurs.
+### Technologies
 
-4. **Unity ou Unreal Engine (pour la VR)**
-   - **Description** : Outils de développement pour créer des expériences immersives en réalité virtuelle.
-   - **Plugins** : Intégrer des plugins pour la gestion audio (par exemple, Oculus Audio SDK pour Unity).
+- **WebGL** : Pour le rendu graphique 3D dans le navigateur.
+- **Web Audio API** : Pour gérer les sons et effets audio en temps réel.
+- **VR SDK** : Kits de développement logiciel spécifiques aux casques VR (par exemple, Oculus SDK, SteamVR).
 
-5. **Adobe Audition ou Audacity**
-   - **Description** : Logiciels pour l'enregistrement, l'édition et le traitement des sons naturels.
-   - **Utilisation** : Créer des boucles sonores, ajuster les niveaux sonores et préparer les fichiers audio pour l'intégration.
+### Logiciels
 
-### Équipements
-1. **Microphones de qualité**
-   - **Types** : Microphones directionnels ou omnidirectionnels pour enregistrer les sons naturels.
-   - **Marques recommandées** : Zoom H1n, Rode NTG4.
+- **Unity ou Unreal Engine** : Pour le développement d'environnements 3D interactifs et VR.
+- **Three.js** : Pour créer des scènes 3D sur le web.
+- **Adobe Audition ou Audacity** : Pour l'enregistrement et l'édition des échantillons sonores.
+- **Blender ou Maya** : Pour la modélisation et l'animation 3D des environnements naturels.
+- **HTML/CSS/JavaScript** : Pour le développement de l'interface web.
+- **Node.js** (facultatif) : Pour gérer les enregistrements et le partage en ligne des créations sonores.
 
-2. **Haut-parleurs**
-   - **Description** : Pour diffuser les sons dans l'installation ou sur le site web.
-   - **Types** : Haut-parleurs de qualité studio pour une reproduction sonore précise.
+## Branchement et Câbles Nécessaires
 
-3. **Casques VR (si applicable)**
-   - **Marques recommandées** : Oculus Quest, HTC Vive, ou Valve Index pour tester et développer l’expérience VR.
-   
-4. **Ordinateur performant**
-   - **Spécifications recommandées** : Processeur i7 ou équivalent, 16 Go de RAM, carte graphique dédiée pour gérer le rendu 3D et les performances audio.
+Pour assurer le bon fonctionnement du projet, les équipements suivants doivent être correctement branchés :
 
-### Branchements
-1. **Configuration audio**
-   - **Microphone** → **Interface audio** (comme Focusrite Scarlett) → **Ordinateur** : Pour enregistrer les sons naturels directement sur l'ordinateur.
-   - **Haut-parleurs** → **Ordinateur** : Utiliser une carte son externe ou une connexion audio intégrée pour diffuser les sons créés.
+- **Casque VR** : Connecté via USB ou HDMI à l'ordinateur ou à la console de jeux.
+- **Haut-parleurs** : Branchés via des câbles audio (jack 3,5 mm ou RCA) à l'ordinateur ou au système de diffusion.
+- **Microphone** : Utilisé pour l'enregistrement des sons naturels, connecté via USB ou XLR selon le modèle.
+- **Contrôleur VR** : Connecté via Bluetooth ou câble USB au casque VR pour l'interaction.
+- **Câbles d'alimentation** : Assurez-vous que tous les appareils sont alimentés correctement, y compris l'ordinateur, les haut-parleurs et les casques VR.
 
-2. **Développement VR**
-   - **Ordinateur** → **Casque VR** : Connecter le casque via USB et HDMI/DisplayPort.
-   - **Unity ou Unreal Engine** : Configurer le projet pour la VR, en s’assurant que les entrées et sorties audio fonctionnent correctement.
+Cette configuration garantit une expérience utilisateur fluide et immersive dans "Échos de la Nature".
 
 ### Intégration
 1. **Développement du site web**
