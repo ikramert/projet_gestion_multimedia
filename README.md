@@ -1,20 +1,5 @@
 # Échos de la Nature
 
- graph TD
-            A[Échos de la Nature] --> B[Mise en contexte]
-            A --> C[Objectif]
-            A --> D[Motivation personnelle]
-            A --> E[Scénario interactif]
-            A --> F[Interaction utilisateur]
-            A --> G[Planche visuelle et sonore]
-            A --> H[Composantes physiques nécessaires]
-            A --> I[Logiciels et techniques utilisées]
-            A --> J[Développement]
-            J --> K[Technologies]
-            J --> L[Logiciels]
-            J --> M[Branchement et câbles nécessaires]
-            J --> N[Intégration]
-
 
 ## Mise en contexte et Objectif
 _Échos de la Nature_ est un projet multimédia interactif conçu pour créer une expérience immersive reliant les utilisateurs aux sons de la nature. Face à l'urbanisation croissante, il est crucial de reconnecter les individus à leur environnement et de sensibiliser le public à sa richesse. Ce projet vise à :
@@ -28,6 +13,43 @@ En tant qu'amateur de nature et de technologie, je suis motivé par l'idée de c
 
 ## Scénario interactif
 "Échos de la Nature" est une installation interactive qui invite les utilisateurs à explorer des paysages virtuels représentant divers environnements naturels (forêt, plage, montagne). À travers une interface intuitive, les utilisateurs peuvent :
+
+
+```mermaid
+    graph TD;
+
+    ModeVeille[Mode veille] --> AmbianceBase[Sons et paysages de base jouent];
+    AmbianceBase --> Interaction[Interaction avec l'environnement ?];
+
+    %% Interaction Utilisateur 1
+    Interaction -- Oui --> Paysage1[Utilisateur 1 sélectionne le paysage 1];
+    Paysage1 --> Interaction1[Interaction avec un élément du paysage ?];
+
+    Interaction1 -- Oui --> Element1[Utilisateur 1 touche l'élément 1];
+    Element1 --> Son1[Sons associés à l'élément 1 activés];
+
+    Son1 --> Reste1[Utilisateur 1 reste ?];
+
+    Reste1 -- Oui --> PlusEffetsSons1[Effets sonores augmentés pour U1];
+    Reste1 -- Non --> RetourVeille1[Retour au mode veille pour U1];
+
+    %% Interaction Utilisateur 2
+    Interaction -- Oui --> Paysage2[Utilisateur 2 sélectionne le paysage 2];
+    Paysage2 --> Interaction2[Interaction avec un élément du paysage ?];
+
+    Interaction2 -- Oui --> Element2[Utilisateur 2 touche l'élément 2];
+    Element2 --> Son2[Sons associés à l'élément 2 activés];
+
+    Son2 --> Reste2[Utilisateur 2 reste ?];
+
+    Reste2 -- Oui --> PlusEffetsSons2[Effets sonores augmentés pour U2];
+    Reste2 -- Non --> RetourVeille2[Retour au mode veille pour U2];
+
+    %% Retour au mode veille global
+    Interaction -- Non --> AmbianceBase;
+
+
+
 
 1. **Choisir un environnement** : Sélectionner un paysage parmi plusieurs options.
 2. **Interagir avec les éléments** : Cliquer sur des objets (arbres, rochers, vagues) pour déclencher des sons naturels associés.
