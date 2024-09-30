@@ -57,11 +57,8 @@ Le projet sera disponible en ligne via un site web interactif, accessible sur di
 - **HTML/CSS/JavaScript** : Développement de l'interface web.
 - **Web Audio API** : Gestion des sons et effets audio en temps réel.
 - **Three.js** : Création de paysages 3D interactifs.
-- **Adobe Audition ou Audacity** : Enregistrement et édition des échantillons sonores.
-- **Node.js** (facultatif) : Gestion des enregistrements et partage en ligne des créations sonores.
+- **Audacity** : Enregistrement et édition des échantillons sonores.
+- **Node.js**  : Gestion des enregistrements et partage en ligne des créations sonores.
 
-- Fax 1-514-597-2092
-- info@antimodular.com
-- www.antimodular.com
 
 
