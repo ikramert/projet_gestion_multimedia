@@ -1,5 +1,21 @@
 # Échos de la Nature
 
+ graph TD
+            A[Échos de la Nature] --> B[Mise en contexte]
+            A --> C[Objectif]
+            A --> D[Motivation personnelle]
+            A --> E[Scénario interactif]
+            A --> F[Interaction utilisateur]
+            A --> G[Planche visuelle et sonore]
+            A --> H[Composantes physiques nécessaires]
+            A --> I[Logiciels et techniques utilisées]
+            A --> J[Développement]
+            J --> K[Technologies]
+            J --> L[Logiciels]
+            J --> M[Branchement et câbles nécessaires]
+            J --> N[Intégration]
+
+
 ## Mise en contexte et Objectif
 _Échos de la Nature_ est un projet multimédia interactif conçu pour créer une expérience immersive reliant les utilisateurs aux sons de la nature. Face à l'urbanisation croissante, il est crucial de reconnecter les individus à leur environnement et de sensibiliser le public à sa richesse. Ce projet vise à :
 
