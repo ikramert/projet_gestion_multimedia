@@ -172,6 +172,8 @@ L'expérience est fluide, conçue pour que les utilisateurs puissent se déplace
 ## Support médiatique / Intégration
 Code QR qui mène vers le landing page de l'éxpérience. 
 
+
+## Coûts du projet Échos de la Nature
 ```mermaid
 graph TD
     A[Coûts du projet Échos de la Nature] --> B[Équipements matériels]
