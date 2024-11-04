@@ -182,6 +182,35 @@ L'expérience est fluide, conçue pour que les utilisateurs puissent se déplace
 Code QR qui mène vers le landing page de l'éxpérience. 
 
 
+## Devis
+### Fournis par l'artiste
+- 1 x Mac Mini M1 configuré
+- 1 x Interface interactive
+- 1 x Encodeur de rotation POE
+- 1 x Bras articulé
+- 1 x Câble ethernet slim de 50'
+- 1 x Switch PoE
+- 1 x HDMI EDID 1080p
+- 2 x Impressions (177x118 cm)
+
+## Fournis par le Mois Multi
+
+### Vidéo
+- Écran de projection 16’ x 9’
+- Projecteur Optoma 4k400STX
+
+### Audio
+- 2 x Haut-parleurs full range
+- 1 x Caisson de Basses
+- 1 x Amplificateur (si haut-parleurs non amplifiés)
+- 1 x Lot de câbles audio
+
+### LX
+- 1 x Spot Elipsoidale blanc froid sur zone interactive (douche)
+- 2 x Spots Elipsoidaux sur les impressions
+
+
+
 ## Coûts du projet Échos de la Nature
 ```mermaid
 graph TD
