@@ -29,78 +29,15 @@ En tant qu'amateur de nature et de technologie, je suis motivé par l'idée de c
 
 J'ai faite ces choix esthétiques car ils visent à évoquer des sensations de calme et de connexion à la nature. Les artistes référencés explorent la relation entre l'homme et son environnement, ce qui résonne avec l'objectif du projet.
 
----
-
-## Scénario interactif
-"Échos de la Nature" est une installation interactive qui invite les utilisateurs à explorer des paysages virtuels représentant divers environnements naturels (forêt, plage, montagne). À travers une interface intuitive, les utilisateurs peuvent :
-
-1. **Choisir un environnement** : Sélectionner un paysage parmi plusieurs options.
-2. **Interagir avec les éléments** : Cliquer sur des objets (arbres, rochers, vagues) pour déclencher des sons naturels associés.
-3. **Composer leur propre ambiance sonore** : Superposer différents sons pour créer une expérience unique et personnalisée.
-
-```mermaid
-graph TD;
-A[Échos de la Nature] --> B[Choix de l'environnement];
-B --> C[Forêt];
-B --> D[Plage];
-B --> E[Montagne];
-
-%% Interaction dans la Forêt
-C --> F[Interaction avec les éléments de la forêt];
-F -- Oui --> G[Toucher un arbre];
-G --> H[Capteur d'arbre activé];
-
-H --> I[Lumière douce et sons d'oiseaux];
-H --> J[Sons de la forêt amplifiés];
-
-I --> K[L'utilisateur reste dans la forêt ?];
-J --> K;
-
-K -- Oui --> L[Augmentation des effets lumineux et sonores];
-K -- Non --> M[Retour au choix d'environnement];
-
-%% Interaction à la Plage
-D --> N[Interaction avec les éléments de la plage];
-N -- Oui --> O[Toucher une vague];
-O --> P[Capteur de vague activé];
-
-P --> Q[Lumière bleuâtre et sons de vagues];
-P --> R[Sons de la plage amplifiés];
-
-Q --> S[L'utilisateur reste sur la plage ?];
-R --> S;
-
-S -- Oui --> T[Augmentation des effets lumineux et sonores];
-S -- Non --> U[Retour au choix d'environnement];
-
-%% Interaction à la Montagne
-E --> V[Interaction avec les éléments de la montagne];
-V -- Oui --> W[Toucher une roche];
-W --> X[Capteur de roche activé];
-
-X --> Y[Lumière dorée et sons de vent];
-X --> Z[Sons de la montagne amplifiés];
-
-Y --> AA[L'utilisateur reste dans la montagne ?];
-Z --> AA;
-
-AA -- Oui --> AB[Augmentation des effets lumineux et sonores];
-AA -- Non --> AC[Retour au choix d'environnement];
-```
-
-
-
-1. **Choisir un environnement** : Sélectionner un paysage parmi plusieurs options.
-2. **Interagir avec les éléments** : Cliquer sur des objets (arbres, rochers, vagues) pour déclencher des sons naturels associés.
-3. **Composer leur propre ambiance sonore** : Superposer différents sons pour créer une expérience unique et personnalisée.
-
-    ![multimedia](https://github.com/user-attachments/assets/1aa3f017-2e70-4d96-90c9-7b84802f3e57)
----
 ## Interaction utilisateur
 ### Étapes d'interaction
 1. **Interface utilisateur** : L'utilisateur accède à une page d'accueil présentant différents environnements naturels.
 2. **Sélection d'un paysage** : L'utilisateur choisit entre une forêt, une plage ou une montagne, chaque choix menant à un environnement 3D interactif.
 3. **Interactions sonores** : Chaque élément cliquable dans le paysage déclenche des sons, et les utilisateurs peuvent ajuster le volume et la position des sons.
+
+![multimedia](https://github.com/user-attachments/assets/1aa3f017-2e70-4d96-90c9-7b84802f3e57)
+
+
 ---
 ## Schéma interactif
 
