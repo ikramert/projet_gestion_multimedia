@@ -125,14 +125,14 @@ graph TD;
     B --> E[Montagne]
 
     subgraph Forêt
-        C1[Écran de la forêt] --> C2[Interact with elements]
+        C1[Écran de la forêt] --> C2[Intéragir avec les éléments]
         C2 --> C3[Écouter sons]
         C3 --> C4[Composer ambiance]
         C4 --> C5[Enregistrer et partager]
     end
 
     subgraph Plage
-        D1[Écran de la plage] --> D2[Interact with elements]
+        D1[Écran de la plage] --> D2[Intéragir avec les éléments]
         D2 --> D3[Écouter sons]
         D3 --> D4[Composer ambiance]
         D4 --> D5[Enregistrer et partager]
