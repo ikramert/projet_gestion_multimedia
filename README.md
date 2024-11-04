@@ -8,7 +8,9 @@ _Échos de la Nature_ est un projet multimédia interactif conçu pour créer un
  **Bien-être mental** : Promouvoir des expériences apaisantes inspirées par la nature pour réduire le stress.
 
 ## Motivation personnelle
-En tant qu'amateur de nature et de technologie, je suis motivé par l'idée de combiner ces deux passions pour créer une œuvre qui divertit et éduque. J'espère que ce projet inspirera d'autres personnes à apprécier et à protéger notre environnement.
+
+En tant qu'amateur de nature et de technologie, je suis motivé par l'idée de combiner ces deux passions pour créer une œuvre qui divertit et éduque. J'espère que ce projet inspirera 
+d'autres personnes à apprécier et à protéger notre environnement.
 ---
 ## Planche visuelle et sonore
 ### Références artistiques
