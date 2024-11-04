@@ -116,7 +116,36 @@ graph TD;
 
 2. **Sélection d'un paysage** : L'utilisateur choisit entre une forêt, une plage ou une montagne, chaque choix menant à un environnement 3D interactif.
 3. **Interactions sonores** : Chaque élément cliquable dans le paysage déclenche des sons, et les utilisateurs peuvent ajuster le volume et la position des sons.
-4. **Création et partage** : À la fin de l'expérience, l'utilisateur peut enregistrer sa composition sonore et la partager sur les réseaux sociaux.
+
+```mermaid
+graph TD;
+    A[Page d'accueil] --> B[Choisir un environnement]
+    B --> C[Forêt]
+    B --> D[Plage]
+    B --> E[Montagne]
+
+    subgraph Forêt
+        C1[Écran de la forêt] --> C2[Interact with elements]
+        C2 --> C3[Écouter sons]
+        C3 --> C4[Composer ambiance]
+        C4 --> C5[Enregistrer et partager]
+    end
+
+    subgraph Plage
+        D1[Écran de la plage] --> D2[Interact with elements]
+        D2 --> D3[Écouter sons]
+        D3 --> D4[Composer ambiance]
+        D4 --> D5[Enregistrer et partager]
+    end
+
+    subgraph Montagne
+        E1[Écran de la montagne] --> E2[Interact with elements]
+        E2 --> E3[Écouter sons]
+        E3 --> E4[Composer ambiance]
+        E4 --> E5[Enregistrer et partager]
+    end
+```
+
 ---
 ## Planche visuelle et sonore
 ### Références artistiques
