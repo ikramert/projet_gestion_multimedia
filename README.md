@@ -6,11 +6,6 @@ _Échos de la Nature_ est un projet multimédia interactif conçu pour créer un
  **Sensibilisation à la biodiversité** : Éduquer le public sur l'importance de la protection de la nature.
  **Interactivité** : Offrir une plateforme où les utilisateurs peuvent interagir avec les sons et les paysages, encourageant l'exploration personnelle et la créativité.
  **Bien-être mental** : Promouvoir des expériences apaisantes inspirées par la nature pour réduire le stress.
-
-## Motivation personnelle
-
-En tant qu'amateur de nature et de technologie, je suis motivé par l'idée de combiner ces deux passions pour créer une œuvre qui divertit et éduque. J'espère que ce projet inspirera 
-d'autres personnes à apprécier et à protéger notre environnement.
 ---
 ## Planche visuelle et sonore
 ### Références artistiques
@@ -26,9 +21,15 @@ d'autres personnes à apprécier et à protéger notre environnement.
   - Jaune soleil : #FFEB3B
 
   ![palette couleur](https://github.com/user-attachments/assets/92d386e2-b184-4048-8096-974b32365c7b)
----
-## Pourquoi j'ai fait ces choix
 
+### Motivation
+ En tant qu'amateur de nature et de technologie, je suis motivé par l'idée de combiner ces deux passions pour créer une œuvre qui divertit et éduque. J'espère que ce projet inspirera 
+ d'autres personnes à apprécier et à protéger notre environnement. 
+
+  
+---
+
+## Pourquoi j'ai fait ces choix
 J'ai faite ces choix esthétiques car ils visent à évoquer des sensations de calme et de connexion à la nature. Les artistes référencés explorent la relation entre l'homme et son environnement, ce qui résonne avec l'objectif du projet.
 
 ## Interaction utilisateur
