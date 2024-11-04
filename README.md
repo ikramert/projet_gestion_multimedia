@@ -232,7 +232,20 @@ L'expérience est fluide, conçue pour que les utilisateurs puissent se déplace
 ![sch3](https://github.com/user-attachments/assets/5208edd8-3cb7-4481-92b4-0925562520f1)
 
 ---
-
 ## Support médiatique / Intégration
 Code QR qui mène vers le landing page de l'éxpérience. 
 
+```mermaid
+graph TD
+    A[Coûts du projet Échos de la Nature] --> B[Équipements matériels]
+    A --> C[Logiciels]
+    A --> D[Coûts de développement]
+    A --> E[Frais divers]
+
+    B --> F[2 827,50 $ à 5 365,00 $]
+    C --> G[87,00 $ à 1 160,00 $]
+    D --> H[9 425,00 $ à 54 375,00 $]
+    E --> I[725,00 $ à 3 625,00 $]
+
+    A --> J[Total Estimé : 13 065,50 $ à 64 525,00 $]
+```
