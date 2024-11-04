@@ -1,11 +1,17 @@
 # Échos de la Nature
 
 ## Mise en contexte et Objectif
-_Échos de la Nature_ est un projet multimédia interactif conçu pour créer une expérience immersive reliant les utilisateurs aux sons de la nature. Face à l'urbanisation croissante, il est crucial de reconnecter les individus à leur environnement et de sensibiliser le public à sa richesse. Ce projet vise à :
 
- **Sensibilisation à la biodiversité** : Éduquer le public sur l'importance de la protection de la nature.
- **Interactivité** : Offrir une plateforme où les utilisateurs peuvent interagir avec les sons et les paysages, encourageant l'exploration personnelle et la créativité.
- **Bien-être mental** : Promouvoir des expériences apaisantes inspirées par la nature pour réduire le stress.
+**_Échos de la Nature_** est un projet multimédia interactif conçu pour créer une expérience immersive reliant les utilisateurs aux sons de la nature. Face à l'urbanisation croissante, il est crucial de reconnecter les individus à leur environnement et de sensibiliser le public à sa richesse.
+
+Ce projet vise à :
+
+- **Sensibilisation à la biodiversité :** Éduquer le public sur l'importance de la protection de la nature.
+- **Interactivité :** Offrir une plateforme où les utilisateurs peuvent interagir avec les sons et les paysages, encourageant l'exploration personnelle et la créativité.
+- **Bien-être mental :** Promouvoir des expériences apaisantes inspirées par la nature pour réduire le stress.
+
+
+
 ---
 ## Planche visuelle et sonore
 ### Références artistiques
