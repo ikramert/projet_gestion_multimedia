@@ -78,6 +78,42 @@ AA -- Non --> AC[Retour au choix d'environnement];
 ## Interaction utilisateur
 ### Étapes d'interaction
 1. **Interface utilisateur** : L'utilisateur accède à une page d'accueil présentant différents environnements naturels.
+
+```mermaid
+graph TD;
+    A[Échos de la Nature] --> B[Choix de l'environnement]
+    B --> C[Forêt]
+    B --> D[Plage]
+    B --> E[Montagne]
+
+    subgraph Forêt
+        C1[Interaction avec les éléments de la forêt] --> C2[Toucher un arbre]
+        C2 --> C3[Capteur d'arbre activé]
+        C3 --> C4[Lumière douce et sons d'oiseaux]
+        C4 --> C5[Continuer dans la forêt ?]
+        C5 -->|Oui| C6[Augmentation des effets lumineux et sonores]
+        C5 -->|Non| B
+    end
+
+    subgraph Plage
+        D1[Interaction avec les éléments de la plage] --> D2[Toucher une vague]
+        D2 --> D3[Capteur de vague activé]
+        D3 --> D4[Lumière bleuâtre et sons de vagues]
+        D4 --> D5[Continuer sur la plage ?]
+        D5 -->|Oui| D6[Augmentation des effets lumineux et sonores]
+        D5 -->|Non| B
+    end
+
+    subgraph Montagne
+        E1[Interaction avec les éléments de la montagne] --> E2[Toucher une roche]
+        E2 --> E3[Capteur de roche activé]
+        E3 --> E4[Lumière dorée et sons de vent]
+        E4 --> E5[Continuer dans la montagne ?]
+        E5 -->|Oui| E6[Augmentation des effets lumineux et sonores]
+        E5 -->|Non| B
+    end
+```
+
 2. **Sélection d'un paysage** : L'utilisateur choisit entre une forêt, une plage ou une montagne, chaque choix menant à un environnement 3D interactif.
 3. **Interactions sonores** : Chaque élément cliquable dans le paysage déclenche des sons, et les utilisateurs peuvent ajuster le volume et la position des sons.
 4. **Création et partage** : À la fin de l'expérience, l'utilisateur peut enregistrer sa composition sonore et la partager sur les réseaux sociaux.
