@@ -73,7 +73,7 @@ AA -- Non --> AC[Retour au choix d'environnement];
 2. **Interagir avec les éléments** : Cliquer sur des objets (arbres, rochers, vagues) pour déclencher des sons naturels associés.
 3. **Composer leur propre ambiance sonore** : Superposer différents sons pour créer une expérience unique et personnalisée.
 
-[multimedia](https://github.com/user-attachments/assets/1aa3f017-2e70-4d96-90c9-7b84802f3e57)
+    ![multimedia](https://github.com/user-attachments/assets/1aa3f017-2e70-4d96-90c9-7b84802f3e57)
 ---
 ## Interaction utilisateur
 ### Étapes d'interaction
@@ -95,7 +95,7 @@ AA -- Non --> AC[Retour au choix d'environnement];
   - Marron terre : #8B4513
   - Jaune soleil : #FFEB3B
 
-      ![Untitled design](https://github.com/user-attachments/assets/92d386e2-b184-4048-8096-974b32365c7b)
+      ![palette couleur](https://github.com/user-attachments/assets/92d386e2-b184-4048-8096-974b32365c7b)
 ---
 ## Pourquoi j'ai fait ces choix
 
